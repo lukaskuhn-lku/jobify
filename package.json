@@ -1,0 +1,22 @@
+{
+  "name": "jobify",
+  "version": "1.0.0",
+  "description": "an easy to use chron job tool",
+  "bin": {
+    "jobify": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "keywords": [
+    "chron",
+    "timing",
+    "job"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
